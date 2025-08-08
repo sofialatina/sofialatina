@@ -8,9 +8,17 @@
 <h1 align="center">I'm Sofia Latina</h1>
 <h3 align="center">I can't be a developer but I can be another.</h3>
 
-- 🔭 I’m currently working on **ISPM | AD1**
+- 🔭 I’m currently working on **:**
 
-- 🌱 I’m currently learning **Figma**
+- ‣ **Bettering myself for upcoming challenges**
+
+- ‣ **Improving myself as an all rounder since I'm not good with code**
+
+- 🌱 I’m currently learning more about **:**
+
+- ‣ **Figma**
+
+- ‣ **Research Document**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
